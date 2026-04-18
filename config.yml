@@ -13,18 +13,19 @@ taxonomies:
 menu:
     main:
         - name: Research
-          url: papers/
+          url: research/
           weight: 1
         - name: Teaching
-          url: courses/
+          url: teaching/
           weight: 2
         - name: CV
           url: cv.pdf
           weight: 3
 
 params:
-    description: "Nancy A. Daza-Báez – Research Fellow in Economics at UCL. Research on intergenerational inequalities, human capital development, health, and gender."
+    description: "Nancy A. Daza-Báez – Research Fellow at the Department of Economics, UCL. Research on intergenerational inequalities, human capital development, health, and gender."
     author: Nancy A. Daza-Báez
+    keywords: ["intergenerational mobility","human capital","health economics","gender","inequality","UCL","economics"]
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
@@ -37,7 +38,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["papers","courses"]
+    MainSections: ["research","teaching"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -54,11 +55,9 @@ params:
           imageHeight: 160
           buttons:
             - name: Research
-              url: papers/
+              url: research/
             - name: Teaching
-              url: courses/
-            - name: Tags
-              url: tags/
+              url: teaching/
 
     socialIcons:
         - name: CV
