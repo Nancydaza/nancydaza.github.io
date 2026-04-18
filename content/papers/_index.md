@@ -1,4 +1,4 @@
 ---
-title: "Papers"
-description: "Preprints and articles by Professor Dr von Igelfeld."
+title: "Research"
+description: "Working papers and published articles by Nancy A. Daza-Báez."
 ---

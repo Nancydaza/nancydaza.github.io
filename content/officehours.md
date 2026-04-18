@@ -1,26 +1,21 @@
 ---
-title: "Office Hours"
+title: "Contact"
 date: 2024-05-08
 hidemeta: true
-description: "Schedule and location for Professor Dr von Igelfeld's office hours."
+description: "Contact information for Nancy A. Daza-Báez."
 ---
-
---- 
-#### Schedule
-
-Office hours take place on Wednesday at 10am.
 
 ---
 
-#### Location
+#### Email
 
-By default meetings are in my office. I am also available for virtual meetings on Zoom.
+[n.baez@ucl.ac.uk](mailto:n.baez@ucl.ac.uk)
 
 ---
 
-#### Meeting material
+#### Office
 
-+ If we are meeting to discuss research, please send me a written description of the work that you would like to discus. 
-+ Presentation slides or paper draft are perfectly fine. 
-+ If you do not have those, please send a one-page description of the research. 
-+ Please send me the material by 8pm on the evening prior of our meeting.
+Department of Economics  
+University College London  
+30 Gordon Street  
+London WC1H 0AX, United Kingdom
