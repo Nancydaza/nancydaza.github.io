@@ -66,11 +66,11 @@ params:
         - name: Email
           url: mailto:n.baez@ucl.ac.uk
         - name: Google Scholar
-          url: https://scholar.google.com/
+          url: https://scholar.google.com/citations?user=JVcNHr0AAAAJ&hl=es
         - name: Twitter
-          url: https://x.com/
+          url: https://x.com/Airedaza
         - name: LinkedIn
-          url: https://www.linkedin.com/
+          url: https://www.linkedin.com/in/nancy-a-daza-b%C3%A1ez-42840238/
 
     assets:
         disableScrollBarStyle: true
