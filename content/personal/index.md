@@ -1,11 +1,11 @@
 ---
-title: "El Cocuy"
+title: "El Cocuy ... my roots"
 author: "Nancy A. Daza-Báez"
 description: "Photos and reflections from El Cocuy, Boyacá, Colombia."
 disableAnchoredHeadings: false
 ---
 
-El Cocuy is a small town nestled in the eastern range of the Colombian Andes, in the department of Boyacá. With a population of around 4,300 inhabitants, it sits at the foot of the Sierra Nevada del Cocuy, one of the most spectacular mountain ranges in South America, and is home to dramatic páramo landscapes, glaciers, and a rich cultural heritage. **It is where I was born, where I grew up, and where my roots are.**
+El Cocuy is a small town nestled in the eastern range of the Colombian Andes, in the department of Boyacá. With a population of around 4,300 inhabitants, it sits at the foot of the Sierra Nevada de El Cocuy, one of the most spectacular mountain ranges in South America, and is home to dramatic páramo landscapes, glaciers, and a rich cultural heritage. **It is where I was born, where I grew up, and where my roots are.**
 
 <style>
 .photo-carousel { overflow-x: auto; display: flex; scroll-snap-type: x mandatory; scrollbar-width: none; -ms-overflow-style: none; margin-top: 1.5rem; }
@@ -25,7 +25,7 @@ El Cocuy is a small town nestled in the eastern range of the Colombian Andes, in
 
 ## Cerro de Mahoma
 
-Cerro de Mahoma is a hill that rises to 4,040 metres above sea level, just beside the town of El Cocuy — on the opposite side from the Sierra Nevada. It is the town's most beloved viewpoint, offering a sweeping panorama of the surrounding municipalities and páramo landscape. The hill also carries local legend: it is said that the mohán, a mythical figure of Colombian folklore, inhabits there.
+Cerro de Mahoma is a hill that rises to 4,040 metres above sea level, just beside the town of El Cocuy, on the opposite side from the Sierra Nevada. It is the town's most beloved viewpoint, offering a sweeping panorama of the surrounding municipalities and páramo landscape. The hill also carries local legend: it is said that the mohán, a mythical figure of Colombian folklore, inhabits there.
 
 <div class="photo-carousel" id="c-mahoma">
   <figure>
@@ -66,11 +66,11 @@ El Cocuy sits at around 2,750 metres above sea level, surrounded by green hills 
 <div class="photo-carousel" id="c-around">
   <figure>
     <img src="/photos/el-cocuy/IMG_3725.JPG" alt="Laguna del Palchacual">
-    <figcaption>Laguna del Palchacual</figcaption>
+    <figcaption>Laguna Grande del Palchacual</figcaption>
   </figure>
   <figure>
     <img src="/photos/el-cocuy/IMG_3791.JPG" alt="Laguna del Palchacual">
-    <figcaption>Laguna del Palchacual</figcaption>
+    <figcaption>Laguna Grande del Palchacual</figcaption>
   </figure>
 </div>
 <div class="carousel-dots" id="d-around"></div>
@@ -79,7 +79,7 @@ El Cocuy sits at around 2,750 metres above sea level, surrounded by green hills 
 
 ## Sierra Nevada del Cocuy
 
-The Sierra Nevada del Cocuy is one of the most important glacial massifs in Colombia, with peaks reaching over 5,000 metres. Its glaciers, lagoons, and frailejones páramo are protected within the Parque Nacional Natural El Cocuy.
+The Sierra Nevada de El Cocuy is one of the most important glacial massifs in Colombia, with peaks reaching over 5,000 metres. Its glaciers, lagoons, and frailejones páramo are protected within the Parque Nacional Natural El Cocuy.
 
 <div class="photo-carousel" id="c-sierra">
   <figure>
@@ -92,20 +92,21 @@ The Sierra Nevada del Cocuy is one of the most important glacial massifs in Colo
   </figure>
   <figure>
     <img src="/photos/el-cocuy/IMG_3838.JPG" alt="On the glacier of the Sierra Nevada del Cocuy">
-    <figcaption>On the glacier</figcaption>
+    <figcaption>On the glacier - Ritak U'wa Blanco </figcaption>
   </figure>
   <figure>
+  <figure>
+    <img src="/photos/el-cocuy/PASEO%20COCUY%202006%20(13).jpg" alt="Glacier and rocky terrain, 2006">
+    <figcaption>Ritak U'wa Blanco, 2006</figcaption>
+  </figure>
     <img src="/photos/el-cocuy/P1050798.JPG" alt="Rock formation emerging from mist and glacier">
     <figcaption>Pulpito del Diablo</figcaption>
   </figure>
   <figure>
     <img src="/photos/el-cocuy/P1050632.JPG" alt="Hikers climbing the glacier in fog">
-    <figcaption>Climbing the glacier</figcaption>
+    <figcaption>Climbing the glacier - Pulpito del Diablo</figcaption>
   </figure>
-  <figure>
-    <img src="/photos/el-cocuy/PASEO%20COCUY%202006%20(13).jpg" alt="Glacier and rocky terrain, 2006">
-    <figcaption>Ritak U'wa Blanco, 2006</figcaption>
-  </figure>
+  
 </div>
 <div class="carousel-dots" id="d-sierra"></div>
 

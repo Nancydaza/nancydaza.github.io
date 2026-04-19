@@ -10,7 +10,7 @@ disableAnchoredHeadings: false
 1. Nature and nurture in the production of childhood BMI (with Gabriella Conti, Rong Hai and Fan Wang).
 2. Menopause, HRT and women’s well-being: Evidence from the UK (with Gabriella Conti, Emilia del Bono and Fatima Najeeb).
 3. Intergenerational Mobility and Assortative Mating in Mexico.
-4. Intergenerational Transmission of Health in the UK (with Emla Fitzsimons and George Ploubidis).
+%4. Intergenerational Transmission of Health in the UK (with Emla Fitzsimons and George Ploubidis).
 
 ## Working Papers
 
