@@ -18,9 +18,12 @@ menu:
         - name: Teaching
           url: teaching/
           weight: 2
+        - name: El Cocuy
+          url: personal/
+          weight: 3
         - name: CV
           url: cv.pdf
-          weight: 3
+          weight: 4
 
 params:
     description: "Nancy A. Daza-Báez – Research Fellow at the Department of Economics, UCL. Research on intergenerational inequalities, human capital development, health, and gender."
