@@ -17,7 +17,7 @@ disableAnchoredHeadings: false
 1. [Global Estimates of Opportunity and Mobility: A Database](https://researchonline.lse.ac.uk/id/eprint/130992/1/III_Working_Paper_158.pdf) (with Francisco H.G. Ferreira, Vito Peragine, Paolo Brunori, Pedro Salas Rojo, et al.), *III Working Paper 158*, International Inequalities Institute, LSE, 2026.  
    Also available at: [LSE Research Online](https://researchonline.lse.ac.uk/id/eprint/130992) | [Stone Center on Socio-Economic Inequality](https://stonecenter.gc.cuny.edu/publications/global-estimates-of-opportunity-and-mobility-a-database/) | [Database: GEOM](https://geom.ecineq.org/)
 
-   The Global Estimates of Opportunity and Mobility (GEOM) project provides a public-access database of internationally comparable inequality of opportunity estimates for 72 countries, covering two-thirds of the world's population. Estimates are derived from 196 household surveys using machine-learning tools to minimize omitted variable bias. On average, differences in circumstances at birth account for 40.9% of total income inequality, with wide variation across countries. The database is freely available at [geom.ecineq.org](https://geom.ecineq.org/).
+   *The GEOM database covers inequality of opportunity estimates for 72 countries using 196 household surveys. Available at [geom.ecineq.org](https://geom.ecineq.org/).*
 
 ## Published Articles
 
