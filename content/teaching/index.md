@@ -23,6 +23,6 @@ disableAnchoredHeadings: false
 
 - *Principles of Economics*: Core introductory module for the BA in Economics and BA in Finance and International Trade (2008–2011, 2016).
 
-- *Principles of Microeconomics*: Core introductory module for the BA in Bussiness  (2010–2012).
+- *Principles of Microeconomics*: Core introductory module for the BA in Bussiness Administration (2010–2012).
 
 - *Microeconomic Analysis*: Intermediate module for the BA in Economics and BA in Finance and International Trade (2014).
