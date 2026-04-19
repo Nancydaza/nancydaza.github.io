@@ -9,7 +9,7 @@ El Cocuy is a small town nestled in the eastern range of the Colombian Andes, in
 
 ## Cerro de Mahoma
 
-Cerro de Mahoma is one of the iconic peaks of the Sierra Nevada del Cocuy, rising above the páramo and glaciers that define this landscape.
+Cerro de Mahoma is a hill that rises to 4,040 metres above sea level, just beside the town of El Cocuy — on the opposite side from the Sierra Nevada. It is the town's most beloved viewpoint, offering a sweeping panorama of the surrounding municipalities and páramo landscape. The hill also carries local legend: it is said that the mohán, a mythical figure of Colombian folklore, inhabits there.
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; margin-top: 1.5rem;">
 
