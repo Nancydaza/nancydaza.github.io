@@ -5,7 +5,7 @@ description: "Photos and reflections from El Cocuy, Boyacá, Colombia."
 disableAnchoredHeadings: false
 ---
 
-El Cocuy is a small town nestled in the eastern range of the Colombian Andes, in the department of Boyacá. It sits at the foot of the Sierra Nevada del Cocuy — one of the most spectacular mountain ranges in South America — and is home to dramatic páramo landscapes, glaciers, and a rich cultural heritage. **It is where I was born, where I grew up, and where my roots are.**
+El Cocuy is a small town nestled in the eastern range of the Colombian Andes, in the department of Boyacá. With a population of around 4,300 inhabitants, it sits at the foot of the Sierra Nevada del Cocuy, one of the most spectacular mountain ranges in South America, and is home to dramatic páramo landscapes, glaciers, and a rich cultural heritage. **It is where I was born, where I grew up, and where my roots are.**
 
 <style>
 .photo-carousel { overflow-x: auto; display: flex; scroll-snap-type: x mandatory; scrollbar-width: none; -ms-overflow-style: none; margin-top: 1.5rem; }
