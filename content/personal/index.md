@@ -16,6 +16,9 @@ El Cocuy is a small town nestled in the eastern range of the Colombian Andes, in
 .carousel-dots { display: flex; justify-content: center; gap: 8px; margin-top: 10px; }
 .carousel-dots span { width: 8px; height: 8px; border-radius: 50%; background: #ccc; cursor: pointer; transition: background 0.3s; display: inline-block; }
 .carousel-dots span.active { background: #555; }
+#c-mahoma img { aspect-ratio: 16/9; }
+#c-around img { aspect-ratio: 4/1; }
+#c-town figure:nth-child(1) img, #c-town figure:nth-child(2) img { aspect-ratio: 1/1; }
 </style>
 
 ---
