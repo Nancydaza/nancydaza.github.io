@@ -52,7 +52,7 @@ params:
     profileMode:
           enabled: true
           title: Nancy A. Daza-Báez
-          subtitle: "I am a Research Fellow at the Department of Economics at University College London (UCL). My research focuses on intergenerational inequalities, human capital development, health, and gender."
+          subtitle: "I am a Research Fellow at the Department of Economics at University College London (UCL). My research investigates the roots of intergenerational inequality, combining genetic data, longitudinal cohorts, and administrative records to understand how early-life conditions determine long-run outcomes in health, earnings, and human capital."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
