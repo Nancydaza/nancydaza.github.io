@@ -61,6 +61,8 @@ params:
               url: research/
             - name: Teaching
               url: teaching/
+            - name: El Cocuy
+              url: personal/
 
     socialIcons:
         - name: CV
