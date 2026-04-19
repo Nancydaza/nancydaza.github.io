@@ -41,28 +41,3 @@ disableAnchoredHeadings: false
 
 1. **[Optimal.sample](https://brendonmcconnell.github.io/Optimal.sample/index.html)** (with Brendon McConnell and Marco Vera-Hernández).  
    R package accompanying [Optimal Sample Sizes for Cash Transfer Research](https://doi.org/10.1086/739610), *Economic Development and Cultural Change*.
-
-## Presentations
-
-**2025**
-- Using genetic data to address economic & social issues with cohort data, UCL Centre of Longitudinal Studies, London, UK, December 12, 2025.
-- World Congress of the Econometric Society (ESWC 2025), Seoul, Korea, August 18–22, 2025.
-- IdEP PhDs and Postdocs Workshop in Sustainable Economics (WISE), Università della Svizzera italiana (USI), Airolo, Switzerland, March 11–13, 2025.
-
-**2024**
-- Seminario Desigualdades, Movilidad Social y Equidad 2024, Universidad Iberoamericana, Ciudad de Mexico, Mexico, November 26, 2024 (Online).
-- CLOSER Early Career Researcher Conference – Bridging Research and Policy: Unleashing the Potential of Longitudinal Research for Societal Impact, London, UK, September 18, 2024.
-
-**2021**
-- VI Seminario Internacional Desigualdad y Movilidad Social en América Latina, Ciudad de Mexico, Mexico, November 3–5, 2021 (Online).
-- SLLS International Online Conference – Identity and Transformation: Studying Lives in Times of Social Change, September 20–22, 2021 (Online).
-- British Society for Population Studies (BSPS) Annual Conference, September 13–15, 2021 (Online).
-- Ninth Meeting of the Society for the Study of Economic Inequality (ECINEQ), July 8–10, 2021 (Online).
-
-**2019**
-- APPAM International Conference – Public Policy in an Era of Rapid Change, Barcelona, Spain, July 29–30, 2019.
-
-**2014**
-- APPAM International Conference – The Decline of the Middle Classes Around the World?, Segovia, Spain, September 28–30, 2014.
-- XI Conference of Labor Market and Equity in Argentina – Argentine's Chapter of the Network on Inequality and Poverty, Buenos Aires, Argentina, September 23–24, 2014.
-- Annual Congress of the Peruvian Economic Association, Lima, Perú, August 8–9, 2014.
