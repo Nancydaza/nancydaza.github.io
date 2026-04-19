@@ -15,16 +15,16 @@ Cerro de Mahoma is one of the iconic peaks of the Sierra Nevada del Cocuy, risin
 
   <figure style="margin: 0;">
     <img src="/photos/el-cocuy/5788B446-E9BA-459F-B3F7-0A35C8942455_1_105_c.jpeg"
-         alt="Cerro de Mahoma, El Cocuy"
+         alt="View from Cerro de Mahoma, El Cocuy"
          style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;">
-    <figcaption style="font-size: 0.85rem; color: #666; margin-top: 6px; text-align: center;">Cerro de Mahoma, El Cocuy</figcaption>
+    <figcaption style="font-size: 0.85rem; color: #666; margin-top: 6px; text-align: center;">View from Cerro de Mahoma, El Cocuy</figcaption>
   </figure>
 
   <figure style="margin: 0;">
     <img src="/photos/el-cocuy/D1267616-BDFD-467E-AACD-0507B53C7050_1_105_c.jpeg"
-         alt="Cerro de Mahoma, El Cocuy"
+         alt="View from Cerro de Mahoma, El Cocuy"
          style="width: 100%; border-radius: 6px; object-fit: cover; aspect-ratio: 4/3;">
-    <figcaption style="font-size: 0.85rem; color: #666; margin-top: 6px; text-align: center;">Cerro de Mahoma, El Cocuy</figcaption>
+    <figcaption style="font-size: 0.85rem; color: #666; margin-top: 6px; text-align: center;">View from Cerro de Mahoma, El Cocuy</figcaption>
   </figure>
 
 </div>
